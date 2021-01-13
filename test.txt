@@ -1,1 +1,3 @@
 This is a critical message amend to the previous commit.
+
+Commit #2 during squash activity
